@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Curveknights.cpp" />
     <ClCompile Include="DrunkVigenere.cpp" />
     <ClCompile Include="Transit.cpp" />
   </ItemGroup>

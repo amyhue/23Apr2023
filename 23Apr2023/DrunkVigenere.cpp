@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-int main() {
+void drunkVigenere() {
 	string encrypted, key;
 	string decrypted = "";
 

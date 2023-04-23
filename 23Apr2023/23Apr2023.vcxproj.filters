@@ -21,5 +21,8 @@
     <ClCompile Include="DrunkVigenere.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Curveknights.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
