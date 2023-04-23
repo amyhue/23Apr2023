@@ -2,7 +2,7 @@
 #include <string>;
 #include <vector>
 
-int main() {
+void transit() {
 	// get start time, end time, # of transit routes
 	int s, t, n;
 	std::vector<int> d, b, c;
