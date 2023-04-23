@@ -18,5 +18,8 @@
     <ClCompile Include="Transit.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="DrunkVigenere.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
