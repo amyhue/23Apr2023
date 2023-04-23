@@ -17,7 +17,7 @@ int main() {
 				decryptLetter = int(encrypted[i]) - shift;
 			else {
 				int newShift = shift - (encrypted[i] - int('A'));
-				decryptLetter = int('Z') - newShift - 1;
+				decryptLetter = int('Z') - newShift + 1;
 			}
 		}
 		else {
